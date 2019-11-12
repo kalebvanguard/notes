@@ -1,0 +1,16 @@
+
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Gemfile
+#	new file:   app/assets/stylesheets/notes.scss
+#	modified:   app/controllers/application_controller.rb
+#	new file:   app/controllers/notes_controller.rb
+#	new file:   app/helpers/notes_helper.rb
+#	new file:   app/views/notes/index.html.erb
+#	new file:   app/views/notes/new.html.erb
+#	new file:   app/views/notes/show.html.erb
+#	modified:   config/routes.rb
+#	new file:   test/controllers/notes_controller_test.rb
+#
